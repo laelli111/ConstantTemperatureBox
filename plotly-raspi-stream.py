@@ -4,9 +4,9 @@ import time
 import serial
 import plotly.tools as tls
 
-username = 'laelli'
-api_key = 'au71fi2g3w'
-stream_tokens = ['3g5te13mdn', '7gy2tn8fz9', 'pq5xkrdgww', 'pjcg8ssfhk', 'fz3q1texzq', '2w6u4lwmpj', 'ionn3gjips']
+username = '****'
+api_key = '****'
+stream_tokens = ['****', '****', '****', '****', '****', '****', '****']
 
 py.sign_in(username, api_key)
 
